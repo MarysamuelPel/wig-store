@@ -16,38 +16,50 @@ const BestSellers = () => {
         <Product
           _id="1011"
           img={bestSellerOne}
-          productName="Flower Base"
-          price="35.00"
-          color="Blank and White"
+          productName="Brazillian Hair"
+          price="35000"
+          color="Black"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="
+          genuine image
+          Maxine
+          Bob Wig Human Hair 13x4 Frontal Lace Wig Short Lace Front Wig Bob Human Hair Pre Plucked Maxine Glueless Bob Wigs Human Hair with Baby Hair 12 Inch"
         />
         <Product
           _id="1012"
           img={bestSellerTwo}
-          productName="New Backpack"
-          price="180.00"
-          color="Gray"
+          productName="Perruzian hair"
+          price="180000"
+          color="black"
           badge={false}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="
+          genuine image
+          Maxine
+          Bob Wig Human Hair 13x4 Frontal Lace Wig Short Lace Front Wig Bob Human Hair Pre Plucked Maxine Glueless Bob Wigs Human Hair with Baby Hair 12 Inch"
         />
         <Product
           _id="1013"
           img={bestSellerThree}
-          productName="Household materials"
-          price="25.00"
-          color="Mixed"
+          productName="Brazillian hair"
+          price="25000"
+          color="Black"
           badge={true}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="
+          genuine image
+          Maxine
+          Bob Wig Human Hair 13x4 Frontal Lace Wig Short Lace Front Wig Bob Human Hair Pre Plucked Maxine Glueless Bob Wigs Human Hair with Baby Hair 12 Inch"
         />
         <Product
           _id="1014"
           img={bestSellerFour}
-          productName="Travel Bag"
-          price="220.00"
+          productName="Human Hair"
+          price="220000"
           color="Black"
           badge={false}
-          des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic excepturi quibusdam odio deleniti reprehenderit facilis."
+          des="
+          genuine image
+          Maxine
+          Bob Wig Human Hair 13x4 Frontal Lace Wig Short Lace Front Wig Bob Human Hair Pre Plucked Maxine Glueless Bob Wigs Human Hair with Baby Hair 12 Inch"
         />
       </div>
     </div>

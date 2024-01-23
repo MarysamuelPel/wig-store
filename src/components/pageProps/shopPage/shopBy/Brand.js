@@ -7,11 +7,11 @@ const Brand = () => {
   const brands = [
     {
       _id: 9006,
-      title: "Apple",
+      title: "Human Hair ",
     },
     {
       _id: 9007,
-      title: "Ultron",
+      title: "Brazillian Hair",
     },
     {
       _id: 9008,
@@ -23,7 +23,7 @@ const Brand = () => {
     },
     {
       _id: 9010,
-      title: "Hoichoi",
+      title: "Human Hair",
     },
   ];
 
